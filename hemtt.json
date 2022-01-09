@@ -1,0 +1,13 @@
+{
+  "name": "Anrop CWR3 ACRE2 Compat",
+  "prefix": "anrop_cwr3_acre2_compat",
+  "version": "1.0.0",
+  "author": "Anrop",
+  "files": [
+    "mod.cpp"
+  ],
+  "keyname": "anrop_cwr3_acre2_compat",
+  "reuse_private_key": true,
+  "signame": "anrop_cwr3_acre2_compat",
+  "sigversion": 3
+}
